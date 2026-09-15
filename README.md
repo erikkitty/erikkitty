@@ -2,8 +2,7 @@
 
 # Привет, я Эрик
 
-**Фронтенд-разработчик**<br>
-Люблю быстрые, красивые и удобные интерфейсы
+_Фронтенд-разработчик_
 
 </div>
 
@@ -11,34 +10,30 @@
 
 - Хочу видеть результат, поэтому выбрал фронт
 - Иногда пишу на Python для вспомогательных задач
-- Работаю в VS Code, живу в Доте
+- Работаю в VS Code
 
-## 🛠️ Технологии
+---
 
-### Языки
+<div align="center">
 
 ![Langs](https://skillicons.dev/icons?i=ts,js,py)
-
-### Фронтенд
-
 ![Frontend](https://skillicons.dev/icons?i=react,redux,vite,html,css)
-
-### Инструменты
-
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,bash)
 
 ### Платформы
 
 ![Platforms](https://skillicons.dev/icons?i=windows,apple)
 
+</div>
+
 ## Сейчас изучаю
 
-- Python
+- Python, Golang
 
 ## GitHub статистика
 
 [![Streak](https://streak-stats.demolab.com/?user=erikkitty&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
-## 🤙 Связь, братан
+## Связь со мной
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikburdin@gmail.com)
