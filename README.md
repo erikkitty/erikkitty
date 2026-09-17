@@ -28,7 +28,7 @@ _Фронтенд-разработчик_
 
 ## Сейчас изучаю
 
-- Python, Golang
+- Vue, Python, Golang
 
 ## GitHub статистика
 
